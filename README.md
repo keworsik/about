@@ -29,7 +29,7 @@ Specjalizuję się w tworzeniu zaawansowanych rozwiązań dla serwerów Minecraf
 
 ### 📫 Kontakt:
 - **GitHub:** [keworsik](https://github.com/keworsik)
-- **Discord:** [Twój Nick]
+- **Discord:** keworsik
 
 ---
 
