@@ -1,37 +1,53 @@
-# Cześć, jestem Karol! 👋
+# Karol
 
-### Junior Java & JavaScript Developer | 21 lat
+## Junior Java & JavaScript Developer
 
-Specjalizuję się w tworzeniu zaawansowanych rozwiązań dla serwerów Minecraft oraz platformy Discord. Moje projekty łączą wydajny backend w Javie z interaktywnymi panelami w JavaScript.
+I am a junior software developer focused on building reliable backend systems and practical integrations. My primary areas of development are Java, JavaScript, Minecraft server software and Discord applications.
+
+I focus on writing maintainable code, developing clear project structures and continuously improving my engineering skills through practical projects.
+
+## Technologies
+
+### Backend & Server Development
+
+- Java
+- Spigot / Paper
+- JDA
+- Node.js
+
+### JavaScript & Integrations
+
+- JavaScript
+- Discord.js
+- REST APIs
+- Bot and dashboard integrations
+
+### Security
+
+- Application and code protection
+- Code obfuscation
+- Reverse-engineering awareness
+
+## Current Focus
+
+- Developing Minecraft plugins and server-side systems in Java.
+- Building Discord bots and integrations using JDA and Discord.js.
+- Improving backend architecture, application security and code quality.
+- Building projects that combine backend services with web-based management interfaces.
+
+## Projects
+
+I use GitHub to document selected projects, experiments and development work. Each repository represents a practical part of my ongoing development as a software engineer.
+
+## Contact
+
+- GitHub: https://github.com/keworsik
+- Discord: keworsik
+
+## GitHub Statistics
+
+![GitHub Statistics](https://github-readme-stats-sigma-five.vercel.app/api?username=keworsik&show_icons=true&theme=dark)
 
 ---
 
-### 🛠 Moje Technologie i Narzędzia
-
-**Backend & Gaming:**
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![Spigot](https://img.shields.io/badge/Minecraft_Plugins-%23F7931E.svg?style=for-the-badge&logo=minecraft&logoColor=white)
-![JDA](https://img.shields.io/badge/Discord_JDA-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
-
-**Frontend & Scripting:**
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Discord.js](https://img.shields.io/badge/Discord.js-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
-
-**Security:**
-![Shield](https://img.shields.io/badge/Security-Code_Encryption_%26_Obfuscation-green?style=for-the-badge&logo=shield)
-
----
-
-### 🚀 Nad czym pracuję?
-- 🎮 **Minecraft Plugins:** Tworzę autorskie mechaniki i systemy w Javie (Spigot/Paper).
-- 🤖 **Discord Ecosystem:** Buduję boty (JDA/JS) zintegrowane z panelami zarządzania (Dashboards).
-- 🛡️ **Code Protection:** Zajmuję się zabezpieczaniem aplikacji przed inżynierią wsteczną i szyfrowaniem kodu.
-
-### 📫 Kontakt:
-- **GitHub:** [keworsik](https://github.com/keworsik)
-- **Discord:** keworsik
-
----
-
-### 📊 Statystyki
-![Statystyki Karola](https://github-readme-stats-sigma-five.vercel.app/api?username=keworsik&show_icons=true&theme=dark)
+Licensed under the MIT License.
