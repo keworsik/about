@@ -41,8 +41,8 @@ Na GitHubie publikuję wybrane projekty, eksperymenty oraz rozwiązania powstaj�
 
 ## Kontakt
 
-- GitHub: https://github.com/keworsik
-- Discord: keworsik
+- GitHub: https://github.com/keworsv-official
+- Discord: keworsv
 
 ## Statystyki GitHub
 
