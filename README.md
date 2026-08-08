@@ -1,53 +1,53 @@
 # Karol
 
-## Junior Java & JavaScript Developer
+## Młodszy programista Java i JavaScript
 
-I am a junior software developer focused on building reliable backend systems and practical integrations. My primary areas of development are Java, JavaScript, Minecraft server software and Discord applications.
+Jestem programistą rozwijającym się w kierunku tworzenia stabilnych i praktycznych rozwiązań backendowych oraz integracji między aplikacjami. Na co dzień pracuję przede wszystkim z Javą, JavaScriptem, oprogramowaniem serwerowym Minecraft oraz aplikacjami dla platformy Discord.
 
-I focus on writing maintainable code, developing clear project structures and continuously improving my engineering skills through practical projects.
+Skupiam się na czytelnym kodzie, przemyślanej strukturze projektów, jakości implementacji oraz systematycznym rozwijaniu umiejętności poprzez pracę nad praktycznymi projektami.
 
-## Technologies
+## Technologie
 
-### Backend & Server Development
+### Backend i systemy serwerowe
 
 - Java
 - Spigot / Paper
 - JDA
 - Node.js
 
-### JavaScript & Integrations
+### JavaScript i integracje
 
 - JavaScript
 - Discord.js
-- REST APIs
-- Bot and dashboard integrations
+- REST API
+- Integracje botów i paneli zarządzania
 
-### Security
+### Bezpieczeństwo
 
-- Application and code protection
-- Code obfuscation
-- Reverse-engineering awareness
+- Ochrona aplikacji i kodu
+- Obfuskacja kodu
+- Zagadnienia związane z inżynierią wsteczną
 
-## Current Focus
+## Aktualny kierunek rozwoju
 
-- Developing Minecraft plugins and server-side systems in Java.
-- Building Discord bots and integrations using JDA and Discord.js.
-- Improving backend architecture, application security and code quality.
-- Building projects that combine backend services with web-based management interfaces.
+- Tworzenie pluginów Minecraft i systemów serwerowych w Javie.
+- Rozwijanie botów Discord oraz integracji z wykorzystaniem JDA i Discord.js.
+- Doskonalenie architektury backendu, jakości kodu i bezpieczeństwa aplikacji.
+- Tworzenie projektów łączących usługi backendowe z panelami zarządzania.
 
-## Projects
+## Projekty
 
-I use GitHub to document selected projects, experiments and development work. Each repository represents a practical part of my ongoing development as a software engineer.
+Na GitHubie publikuję wybrane projekty, eksperymenty oraz rozwiązania powstające w ramach mojego rozwoju programistycznego. Repozytoria odzwierciedlają praktyczne doświadczenie zdobywane podczas pracy nad kolejnymi aplikacjami i systemami.
 
-## Contact
+## Kontakt
 
 - GitHub: https://github.com/keworsik
 - Discord: keworsik
 
-## GitHub Statistics
+## Statystyki GitHub
 
-![GitHub Statistics](https://github-readme-stats-sigma-five.vercel.app/api?username=keworsik&show_icons=true&theme=dark)
+![Statystyki GitHub](https://github-readme-stats-sigma-five.vercel.app/api?username=keworsik&show_icons=true&theme=dark)
 
 ---
 
-Licensed under the MIT License.
+Licencja MIT.
